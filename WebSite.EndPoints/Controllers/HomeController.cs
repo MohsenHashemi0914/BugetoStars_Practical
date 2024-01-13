@@ -1,9 +1,9 @@
 ﻿using Microsoft.AspNetCore.Mvc;
-using System.Diagnostics;
-using WebSite.EndPoint.Models;
+using WebSite.EndPoints.Utilities.Filters;
 
 namespace WebSite.EndPoint.Controllers
 {
+    [ServiceFilter(typeof(SaveVisitorInfoActionFilter))]
     public class HomeController : Controller
     {
         private readonly ILogger<HomeController> _logger;

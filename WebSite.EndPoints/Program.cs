@@ -1,8 +1,12 @@
+using Application.Contexts.Mongo;
+using Application.Visitors.SaveVisitorInfo;
 using Domain.Users;
 using Infrastructure.IdentityConfigs;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
 using Persistence.Contexts;
+using Persistence.Contexts.Mongo;
+using WebSite.EndPoints.Utilities.Filters;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -39,6 +43,9 @@ builder.Services.AddDbContext<DatabaseContext>(options =>
 
 #endregion
 
+builder.Services.AddScoped<SaveVisitorInfoActionFilter>();
+builder.Services.AddTransient(typeof(IMongoDbContext<>), typeof(MongoDbContext<>));
+builder.Services.AddTransient<ISaveVisitorInfoService, SaveVisitorInfoService>();
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.

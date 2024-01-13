@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "09+OklUdqKgLl0hvjTKNnCvbOIxFVI+Jtp//9xOYaZQs5ch1nqZG1uNS3l1COlwBkBpDMRC2r1pHWsPpJR/D+Q==",
+  "dgSpecHash": "wEal8bqTW8MHJshlQSJs8/nmZTkd2IRgxOQEUs32I09ukLLukxMjCdHf/LMENbTRpgWOTMOe/zvZ7oA6LWMJjA==",
   "success": true,
   "projectFilePath": "C:\\Users\\Mohsen\\source\\repos\\BugetoStars_Practical\\WebSite.EndPoints\\WebSite.EndPoints.csproj",
   "expectedPackageFiles": [
@@ -85,6 +85,7 @@
     "C:\\Users\\Mohsen\\.nuget\\packages\\system.threading.tasks\\4.3.0\\system.threading.tasks.4.3.0.nupkg.sha512",
     "C:\\Users\\Mohsen\\.nuget\\packages\\system.threading.tasks.extensions\\4.5.4\\system.threading.tasks.extensions.4.5.4.nupkg.sha512",
     "C:\\Users\\Mohsen\\.nuget\\packages\\system.windows.extensions\\5.0.0\\system.windows.extensions.5.0.0.nupkg.sha512",
+    "C:\\Users\\Mohsen\\.nuget\\packages\\uaparser\\3.1.47\\uaparser.3.1.47.nupkg.sha512",
     "C:\\Users\\Mohsen\\.nuget\\packages\\zstdsharp.port\\0.7.3\\zstdsharp.port.0.7.3.nupkg.sha512"
   ],
   "logs": []

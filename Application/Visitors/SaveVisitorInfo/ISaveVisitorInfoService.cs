@@ -5,5 +5,5 @@ namespace Application.Visitors.SaveVisitorInfo;
 
 public interface ISaveVisitorInfoService
 {
-    void Execute(SaveVisitorInfoDto command);
+    Task ExecuteAsync(SaveVisitorInfoDto command);
 }

@@ -9,7 +9,7 @@ public sealed record SaveVisitorInfoDto
     public string Protocol { get; init; }
     public string PhysicalPath { get; init; }
 
-    public DeviceDto Device { get; set; }
-    public VisitorVersionDto Browser { get; set; }
-    public VisitorVersionDto OperationSystem { get; set; }
+    public DeviceDto Device { get; init; }
+    public VisitorVersionDto Browser { get; init; }
+    public VisitorVersionDto OperationSystem { get; init; }
 }
