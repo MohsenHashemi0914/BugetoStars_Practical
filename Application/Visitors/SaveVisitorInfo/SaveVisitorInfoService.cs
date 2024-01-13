@@ -10,6 +10,7 @@ public class SaveVisitorInfoService : ISaveVisitorInfoService
     #region Constructor
 
     private readonly IMongoDbContext<Visitor> _mongoDbContext;
+    private readonly IMongoCollection<Visitor> _mongoCollection;
 
     public SaveVisitorInfoService(IMongoDbContext<Visitor> mongoDbContext)
     {
@@ -17,11 +18,9 @@ public class SaveVisitorInfoService : ISaveVisitorInfoService
         _mongoCollection = _mongoDbContext.GetCollection();
     }
 
-    private readonly IMongoCollection<Visitor> _mongoCollection;
-
     #endregion
 
-    public void Execute(SaveVisitorInfoDto command)
+    public async Task ExecuteAsync(SaveVisitorInfoDto command)
     {
         var visitor = new Visitor
         {
@@ -50,6 +49,6 @@ public class SaveVisitorInfoService : ISaveVisitorInfoService
             }
         };
 
-        _mongoCollection.InsertOne(visitor);
+        await _mongoCollection.InsertOneAsync(visitor);
     }
 }
