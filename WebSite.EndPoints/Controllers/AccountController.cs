@@ -1,7 +1,7 @@
 ﻿using Domain.Users;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Mvc;
-using WebSite.EndPoint.Models.ViewModels.Account;
+using WebSite.EndPoints.Models.ViewModels.Account;
 using WebSite.EndPoints.Utilities.Filters;
 
 namespace WebSite.EndPoint.Controllers

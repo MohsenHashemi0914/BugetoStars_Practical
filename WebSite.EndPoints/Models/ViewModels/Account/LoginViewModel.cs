@@ -1,6 +1,6 @@
 ﻿using System.ComponentModel.DataAnnotations;
 
-namespace WebSite.EndPoint.Models.ViewModels.Account;
+namespace WebSite.EndPoints.Models.ViewModels.Account;
 
 public sealed record LoginViewModel
 {
@@ -14,7 +14,7 @@ public sealed record LoginViewModel
     [DataType(DataType.Password)]
     public string Password { get; init; }
 
-    [Display(Name =("RememberMe"))]
+    [Display(Name = "RememberMe")]
     public bool IsPersistent { get; init; }
 
     public string? ReturnUrl { get; init; }

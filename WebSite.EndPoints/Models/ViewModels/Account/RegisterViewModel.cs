@@ -1,6 +1,6 @@
 ﻿using System.ComponentModel.DataAnnotations;
 
-namespace WebSite.EndPoint.Models.ViewModels.Account;
+namespace WebSite.EndPoints.Models.ViewModels.Account;
 
 public sealed record RegisterViewModel
 {

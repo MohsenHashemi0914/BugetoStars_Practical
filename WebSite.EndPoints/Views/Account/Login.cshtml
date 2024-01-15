@@ -1,14 +1,13 @@
-﻿@model WebSite.EndPoint.Models.ViewModels.Account.LoginViewModel
+﻿@model WebSite.EndPoints.Models.ViewModels.Account.LoginViewModel
 
 @{
-    ViewData["Title"] = "Login";
+    ViewData["Title"] = "ورود به حساب";
     Layout = "~/Views/Shared/_Layout.cshtml";
 }
 
-<h1>Login</h1>
+<h1>ورود به حساب</h1>
 
-<h4>LoginViewModel</h4>
-<hr />
+ <hr />
 <div class="row">
     <div class="col-md-4">
         <form asp-action="Login">
@@ -28,13 +27,16 @@
                     <input class="form-check-input" asp-for="IsPersistent" /> @Html.DisplayNameFor(model => model.IsPersistent)
                 </label>
             </div>
+       
+                <input type="hidden" asp-for="ReturnUrl" class="form-control" />
+          
             <div class="form-group">
-                <input type="submit" value="Login" class="btn btn-primary" />
+                <input type="submit" value="ورود" class="btn btn-primary" />
             </div>
-            <input type="hidden" asp-for="ReturnUrl" class="form-control" />
         </form>
     </div>
 </div>
+
 
 @section Scripts {
     @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}

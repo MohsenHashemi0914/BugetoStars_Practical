@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "oKe9xJCEGen/M40Er2GRCKMbYNu8Iq7KcP85ABdy2+SeGnkxtPogWYEriUYsy1/occDR22Y4fUdpXNO4JcVqMQ==",
+  "dgSpecHash": "sGBB9UISBoj1BpKppbnxFLD1+xzEHmuGdJAuUmmPBiMj5G4RtHwBc5A9eOfR2HnAzzntpKmNpWNNI4gLj1Pl5g==",
   "success": true,
   "projectFilePath": "C:\\Users\\Mohsen\\source\\repos\\BugetoStars_Practical\\Domain\\Domain.csproj",
   "expectedPackageFiles": [
@@ -14,7 +14,10 @@
     "C:\\Users\\Mohsen\\.nuget\\packages\\microsoft.extensions.logging\\7.0.0\\microsoft.extensions.logging.7.0.0.nupkg.sha512",
     "C:\\Users\\Mohsen\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\7.0.0\\microsoft.extensions.logging.abstractions.7.0.0.nupkg.sha512",
     "C:\\Users\\Mohsen\\.nuget\\packages\\microsoft.extensions.options\\7.0.1\\microsoft.extensions.options.7.0.1.nupkg.sha512",
-    "C:\\Users\\Mohsen\\.nuget\\packages\\microsoft.extensions.primitives\\7.0.0\\microsoft.extensions.primitives.7.0.0.nupkg.sha512"
+    "C:\\Users\\Mohsen\\.nuget\\packages\\microsoft.extensions.primitives\\7.0.0\\microsoft.extensions.primitives.7.0.0.nupkg.sha512",
+    "C:\\Users\\Mohsen\\.nuget\\packages\\mongodb.bson\\2.23.1\\mongodb.bson.2.23.1.nupkg.sha512",
+    "C:\\Users\\Mohsen\\.nuget\\packages\\system.memory\\4.5.5\\system.memory.4.5.5.nupkg.sha512",
+    "C:\\Users\\Mohsen\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\5.0.0\\system.runtime.compilerservices.unsafe.5.0.0.nupkg.sha512"
   ],
   "logs": []
 }

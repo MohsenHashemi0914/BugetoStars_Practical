@@ -10,6 +10,7 @@ public class SaveVisitorInfoActionFilter : IActionFilter
 {
     #region Constructor
 
+    private static readonly object _locker = new object();
     private readonly ISaveVisitorInfoService _saveVisitorInfoService;
 
     public SaveVisitorInfoActionFilter(ISaveVisitorInfoService saveVisitorInfoService)
@@ -34,10 +35,20 @@ public class SaveVisitorInfoActionFilter : IActionFilter
         var referrerLink = request.Headers["Referrer"].ToString();
         var currentLink = request.Path.ToString();
 
+        var visitorId = GetCookieValue("VisitorId", context.HttpContext);
+        lock (_locker)
+        {
+            if (string.IsNullOrWhiteSpace(visitorId))
+            {
+                SetCookie("VisitorId", Guid.NewGuid().ToString(), context.HttpContext);
+            }
+        }
+
         var visitor = new SaveVisitorInfoDto
         {
             IP = ip,
             Method = request.Method,
+            VisitorId = visitorId,
             CurrentLink = currentLink,
             ReferrerLink = referrerLink,
             Protocol = request.Protocol,
@@ -62,5 +73,19 @@ public class SaveVisitorInfoActionFilter : IActionFilter
         };
 
         await _saveVisitorInfoService.ExecuteAsync(visitor);
+    }
+    private string GetCookieValue(string key, HttpContext context)
+    {
+        return context.Request.Cookies[key];
+    }
+
+    private void SetCookie(string key, string value, HttpContext context)
+    {
+        context.Response.Cookies.Append(key, value, new()
+        {
+            Path = "/",
+            HttpOnly = true,
+            Expires = DateTime.UtcNow.AddDays(25)
+        });
     }
 }

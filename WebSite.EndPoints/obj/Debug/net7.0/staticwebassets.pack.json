@@ -5,6 +5,926 @@
       "PackagePath": "staticwebassets\\WebSite.EndPoints.bundle.scp.css"
     },
     {
+      "Id": "C:\\Users\\Mohsen\\source\\repos\\BugetoStars_Practical\\WebSite.EndPoints\\wwwroot\\Theme\\404.html",
+      "PackagePath": "staticwebassets\\Theme\\404.html"
+    },
+    {
+      "Id": "C:\\Users\\Mohsen\\source\\repos\\BugetoStars_Practical\\WebSite.EndPoints\\wwwroot\\Theme\\assets\\bootstrap\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\Theme\\assets\\bootstrap\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Mohsen\\source\\repos\\BugetoStars_Practical\\WebSite.EndPoints\\wwwroot\\Theme\\assets\\bootstrap\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\Theme\\assets\\bootstrap\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Mohsen\\source\\repos\\BugetoStars_Practical\\WebSite.EndPoints\\wwwroot\\Theme\\assets\\css\\colors\\amber.css",
+      "PackagePath": "staticwebassets\\Theme\\assets\\css\\colors\\amber.css"
+    },
+    {
+      "Id": "C:\\Users\\Mohsen\\source\\repos\\BugetoStars_Practical\\WebSite.EndPoints\\wwwroot\\Theme\\assets\\css\\colors\\blue.css",
+      "PackagePath": "staticwebassets\\Theme\\assets\\css\\colors\\blue.css"
+    },
+    {
+      "Id": "C:\\Users\\Mohsen\\source\\repos\\BugetoStars_Practical\\WebSite.EndPoints\\wwwroot\\Theme\\assets\\css\\colors\\brown.css",
+      "PackagePath": "staticwebassets\\Theme\\assets\\css\\colors\\brown.css"
+    },
+    {
+      "Id": "C:\\Users\\Mohsen\\source\\repos\\BugetoStars_Practical\\WebSite.EndPoints\\wwwroot\\Theme\\assets\\css\\colors\\cyan.css",
+      "PackagePath": "staticwebassets\\Theme\\assets\\css\\colors\\cyan.css"
+    },
+    {
+      "Id": "C:\\Users\\Mohsen\\source\\repos\\BugetoStars_Practical\\WebSite.EndPoints\\wwwroot\\Theme\\assets\\css\\colors\\default.css",
+      "PackagePath": "staticwebassets\\Theme\\assets\\css\\colors\\default.css"
+    },
+    {
+      "Id": "C:\\Users\\Mohsen\\source\\repos\\BugetoStars_Practical\\WebSite.EndPoints\\wwwroot\\Theme\\assets\\css\\colors\\green.css",
+      "PackagePath": "staticwebassets\\Theme\\assets\\css\\colors\\green.css"
+    },
+    {
+      "Id": "C:\\Users\\Mohsen\\source\\repos\\BugetoStars_Practical\\WebSite.EndPoints\\wwwroot\\Theme\\assets\\css\\colors\\indigo.css",
+      "PackagePath": "staticwebassets\\Theme\\assets\\css\\colors\\indigo.css"
+    },
+    {
+      "Id": "C:\\Users\\Mohsen\\source\\repos\\BugetoStars_Practical\\WebSite.EndPoints\\wwwroot\\Theme\\assets\\css\\colors\\orange.css",
+      "PackagePath": "staticwebassets\\Theme\\assets\\css\\colors\\orange.css"
+    },
+    {
+      "Id": "C:\\Users\\Mohsen\\source\\repos\\BugetoStars_Practical\\WebSite.EndPoints\\wwwroot\\Theme\\assets\\css\\colors\\pink.css",
+      "PackagePath": "staticwebassets\\Theme\\assets\\css\\colors\\pink.css"
+    },
+    {
+      "Id": "C:\\Users\\Mohsen\\source\\repos\\BugetoStars_Practical\\WebSite.EndPoints\\wwwroot\\Theme\\assets\\css\\colors\\purple.css",
+      "PackagePath": "staticwebassets\\Theme\\assets\\css\\colors\\purple.css"
+    },
+    {
+      "Id": "C:\\Users\\Mohsen\\source\\repos\\BugetoStars_Practical\\WebSite.EndPoints\\wwwroot\\Theme\\assets\\css\\colors\\red.css",
+      "PackagePath": "staticwebassets\\Theme\\assets\\css\\colors\\red.css"
+    },
+    {
+      "Id": "C:\\Users\\Mohsen\\source\\repos\\BugetoStars_Practical\\WebSite.EndPoints\\wwwroot\\Theme\\assets\\css\\colors\\teal.css",
+      "PackagePath": "staticwebassets\\Theme\\assets\\css\\colors\\teal.css"
+    },
+    {
+      "Id": "C:\\Users\\Mohsen\\source\\repos\\BugetoStars_Practical\\WebSite.EndPoints\\wwwroot\\Theme\\assets\\css\\colors\\yellow.css",
+      "PackagePath": "staticwebassets\\Theme\\assets\\css\\colors\\yellow.css"
+    },
+    {
+      "Id": "C:\\Users\\Mohsen\\source\\repos\\BugetoStars_Practical\\WebSite.EndPoints\\wwwroot\\Theme\\assets\\css\\custom.css",
+      "PackagePath": "staticwebassets\\Theme\\assets\\css\\custom.css"
+    },
+    {
+      "Id": "C:\\Users\\Mohsen\\source\\repos\\BugetoStars_Practical\\WebSite.EndPoints\\wwwroot\\Theme\\assets\\css\\font-awesome.min.css",
+      "PackagePath": "staticwebassets\\Theme\\assets\\css\\font-awesome.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Mohsen\\source\\repos\\BugetoStars_Practical\\WebSite.EndPoints\\wwwroot\\Theme\\assets\\css\\plugins\\apexcharts.css",
+      "PackagePath": "staticwebassets\\Theme\\assets\\css\\plugins\\apexcharts.css"
+    },
+    {
+      "Id": "C:\\Users\\Mohsen\\source\\repos\\BugetoStars_Practical\\WebSite.EndPoints\\wwwroot\\Theme\\assets\\css\\plugins\\jquery.classycountdown.min.css",
+      "PackagePath": "staticwebassets\\Theme\\assets\\css\\plugins\\jquery.classycountdown.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Mohsen\\source\\repos\\BugetoStars_Practical\\WebSite.EndPoints\\wwwroot\\Theme\\assets\\css\\plugins\\nouislider.min.css",
+      "PackagePath": "staticwebassets\\Theme\\assets\\css\\plugins\\nouislider.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Mohsen\\source\\repos\\BugetoStars_Practical\\WebSite.EndPoints\\wwwroot\\Theme\\assets\\css\\plugins\\select2.min.css",
+      "PackagePath": "staticwebassets\\Theme\\assets\\css\\plugins\\select2.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Mohsen\\source\\repos\\BugetoStars_Practical\\WebSite.EndPoints\\wwwroot\\Theme\\assets\\css\\plugins\\swiper.min.css",
+      "PackagePath": "staticwebassets\\Theme\\assets\\css\\plugins\\swiper.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Mohsen\\source\\repos\\BugetoStars_Practical\\WebSite.EndPoints\\wwwroot\\Theme\\assets\\css\\theme.css",
+      "PackagePath": "staticwebassets\\Theme\\assets\\css\\theme.css"
+    },
+    {
+      "Id": "C:\\Users\\Mohsen\\source\\repos\\BugetoStars_Practical\\WebSite.EndPoints\\wwwroot\\Theme\\assets\\fonts\\DimaMolsaq\\DimaMolsaq.woff",
+      "PackagePath": "staticwebassets\\Theme\\assets\\fonts\\DimaMolsaq\\DimaMolsaq.woff"
+    },
+    {
+      "Id": "C:\\Users\\Mohsen\\source\\repos\\BugetoStars_Practical\\WebSite.EndPoints\\wwwroot\\Theme\\assets\\fonts\\font-awesome\\fa-brands-400.eot",
+      "PackagePath": "staticwebassets\\Theme\\assets\\fonts\\font-awesome\\fa-brands-400.eot"
+    },
+    {
+      "Id": "C:\\Users\\Mohsen\\source\\repos\\BugetoStars_Practical\\WebSite.EndPoints\\wwwroot\\Theme\\assets\\fonts\\font-awesome\\fa-brands-400.svg",
+      "PackagePath": "staticwebassets\\Theme\\assets\\fonts\\font-awesome\\fa-brands-400.svg"
+    },
+    {
+      "Id": "C:\\Users\\Mohsen\\source\\repos\\BugetoStars_Practical\\WebSite.EndPoints\\wwwroot\\Theme\\assets\\fonts\\font-awesome\\fa-brands-400.ttf",
+      "PackagePath": "staticwebassets\\Theme\\assets\\fonts\\font-awesome\\fa-brands-400.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Mohsen\\source\\repos\\BugetoStars_Practical\\WebSite.EndPoints\\wwwroot\\Theme\\assets\\fonts\\font-awesome\\fa-brands-400.woff",
+      "PackagePath": "staticwebassets\\Theme\\assets\\fonts\\font-awesome\\fa-brands-400.woff"
+    },
+    {
+      "Id": "C:\\Users\\Mohsen\\source\\repos\\BugetoStars_Practical\\WebSite.EndPoints\\wwwroot\\Theme\\assets\\fonts\\font-awesome\\fa-brands-400.woff2",
+      "PackagePath": "staticwebassets\\Theme\\assets\\fonts\\font-awesome\\fa-brands-400.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Mohsen\\source\\repos\\BugetoStars_Practical\\WebSite.EndPoints\\wwwroot\\Theme\\assets\\fonts\\font-awesome\\fa-duotone-900.eot",
+      "PackagePath": "staticwebassets\\Theme\\assets\\fonts\\font-awesome\\fa-duotone-900.eot"
+    },
+    {
+      "Id": "C:\\Users\\Mohsen\\source\\repos\\BugetoStars_Practical\\WebSite.EndPoints\\wwwroot\\Theme\\assets\\fonts\\font-awesome\\fa-duotone-900.svg",
+      "PackagePath": "staticwebassets\\Theme\\assets\\fonts\\font-awesome\\fa-duotone-900.svg"
+    },
+    {
+      "Id": "C:\\Users\\Mohsen\\source\\repos\\BugetoStars_Practical\\WebSite.EndPoints\\wwwroot\\Theme\\assets\\fonts\\font-awesome\\fa-duotone-900.ttf",
+      "PackagePath": "staticwebassets\\Theme\\assets\\fonts\\font-awesome\\fa-duotone-900.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Mohsen\\source\\repos\\BugetoStars_Practical\\WebSite.EndPoints\\wwwroot\\Theme\\assets\\fonts\\font-awesome\\fa-duotone-900.woff",
+      "PackagePath": "staticwebassets\\Theme\\assets\\fonts\\font-awesome\\fa-duotone-900.woff"
+    },
+    {
+      "Id": "C:\\Users\\Mohsen\\source\\repos\\BugetoStars_Practical\\WebSite.EndPoints\\wwwroot\\Theme\\assets\\fonts\\font-awesome\\fa-duotone-900.woff2",
+      "PackagePath": "staticwebassets\\Theme\\assets\\fonts\\font-awesome\\fa-duotone-900.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Mohsen\\source\\repos\\BugetoStars_Practical\\WebSite.EndPoints\\wwwroot\\Theme\\assets\\fonts\\font-awesome\\fa-light-300.eot",
+      "PackagePath": "staticwebassets\\Theme\\assets\\fonts\\font-awesome\\fa-light-300.eot"
+    },
+    {
+      "Id": "C:\\Users\\Mohsen\\source\\repos\\BugetoStars_Practical\\WebSite.EndPoints\\wwwroot\\Theme\\assets\\fonts\\font-awesome\\fa-light-300.svg",
+      "PackagePath": "staticwebassets\\Theme\\assets\\fonts\\font-awesome\\fa-light-300.svg"
+    },
+    {
+      "Id": "C:\\Users\\Mohsen\\source\\repos\\BugetoStars_Practical\\WebSite.EndPoints\\wwwroot\\Theme\\assets\\fonts\\font-awesome\\fa-light-300.ttf",
+      "PackagePath": "staticwebassets\\Theme\\assets\\fonts\\font-awesome\\fa-light-300.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Mohsen\\source\\repos\\BugetoStars_Practical\\WebSite.EndPoints\\wwwroot\\Theme\\assets\\fonts\\font-awesome\\fa-light-300.woff",
+      "PackagePath": "staticwebassets\\Theme\\assets\\fonts\\font-awesome\\fa-light-300.woff"
+    },
+    {
+      "Id": "C:\\Users\\Mohsen\\source\\repos\\BugetoStars_Practical\\WebSite.EndPoints\\wwwroot\\Theme\\assets\\fonts\\font-awesome\\fa-light-300.woff2",
+      "PackagePath": "staticwebassets\\Theme\\assets\\fonts\\font-awesome\\fa-light-300.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Mohsen\\source\\repos\\BugetoStars_Practical\\WebSite.EndPoints\\wwwroot\\Theme\\assets\\fonts\\font-awesome\\fa-regular-400.eot",
+      "PackagePath": "staticwebassets\\Theme\\assets\\fonts\\font-awesome\\fa-regular-400.eot"
+    },
+    {
+      "Id": "C:\\Users\\Mohsen\\source\\repos\\BugetoStars_Practical\\WebSite.EndPoints\\wwwroot\\Theme\\assets\\fonts\\font-awesome\\fa-regular-400.svg",
+      "PackagePath": "staticwebassets\\Theme\\assets\\fonts\\font-awesome\\fa-regular-400.svg"
+    },
+    {
+      "Id": "C:\\Users\\Mohsen\\source\\repos\\BugetoStars_Practical\\WebSite.EndPoints\\wwwroot\\Theme\\assets\\fonts\\font-awesome\\fa-regular-400.ttf",
+      "PackagePath": "staticwebassets\\Theme\\assets\\fonts\\font-awesome\\fa-regular-400.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Mohsen\\source\\repos\\BugetoStars_Practical\\WebSite.EndPoints\\wwwroot\\Theme\\assets\\fonts\\font-awesome\\fa-regular-400.woff",
+      "PackagePath": "staticwebassets\\Theme\\assets\\fonts\\font-awesome\\fa-regular-400.woff"
+    },
+    {
+      "Id": "C:\\Users\\Mohsen\\source\\repos\\BugetoStars_Practical\\WebSite.EndPoints\\wwwroot\\Theme\\assets\\fonts\\font-awesome\\fa-regular-400.woff2",
+      "PackagePath": "staticwebassets\\Theme\\assets\\fonts\\font-awesome\\fa-regular-400.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Mohsen\\source\\repos\\BugetoStars_Practical\\WebSite.EndPoints\\wwwroot\\Theme\\assets\\fonts\\font-awesome\\fa-solid-900.eot",
+      "PackagePath": "staticwebassets\\Theme\\assets\\fonts\\font-awesome\\fa-solid-900.eot"
+    },
+    {
+      "Id": "C:\\Users\\Mohsen\\source\\repos\\BugetoStars_Practical\\WebSite.EndPoints\\wwwroot\\Theme\\assets\\fonts\\font-awesome\\fa-solid-900.svg",
+      "PackagePath": "staticwebassets\\Theme\\assets\\fonts\\font-awesome\\fa-solid-900.svg"
+    },
+    {
+      "Id": "C:\\Users\\Mohsen\\source\\repos\\BugetoStars_Practical\\WebSite.EndPoints\\wwwroot\\Theme\\assets\\fonts\\font-awesome\\fa-solid-900.ttf",
+      "PackagePath": "staticwebassets\\Theme\\assets\\fonts\\font-awesome\\fa-solid-900.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Mohsen\\source\\repos\\BugetoStars_Practical\\WebSite.EndPoints\\wwwroot\\Theme\\assets\\fonts\\font-awesome\\fa-solid-900.woff",
+      "PackagePath": "staticwebassets\\Theme\\assets\\fonts\\font-awesome\\fa-solid-900.woff"
+    },
+    {
+      "Id": "C:\\Users\\Mohsen\\source\\repos\\BugetoStars_Practical\\WebSite.EndPoints\\wwwroot\\Theme\\assets\\fonts\\font-awesome\\fa-solid-900.woff2",
+      "PackagePath": "staticwebassets\\Theme\\assets\\fonts\\font-awesome\\fa-solid-900.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Mohsen\\source\\repos\\BugetoStars_Practical\\WebSite.EndPoints\\wwwroot\\Theme\\assets\\fonts\\shabnam\\Shabnam-Bold.eot",
+      "PackagePath": "staticwebassets\\Theme\\assets\\fonts\\shabnam\\Shabnam-Bold.eot"
+    },
+    {
+      "Id": "C:\\Users\\Mohsen\\source\\repos\\BugetoStars_Practical\\WebSite.EndPoints\\wwwroot\\Theme\\assets\\fonts\\shabnam\\Shabnam-Bold.ttf",
+      "PackagePath": "staticwebassets\\Theme\\assets\\fonts\\shabnam\\Shabnam-Bold.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Mohsen\\source\\repos\\BugetoStars_Practical\\WebSite.EndPoints\\wwwroot\\Theme\\assets\\fonts\\shabnam\\Shabnam-Bold.woff",
+      "PackagePath": "staticwebassets\\Theme\\assets\\fonts\\shabnam\\Shabnam-Bold.woff"
+    },
+    {
+      "Id": "C:\\Users\\Mohsen\\source\\repos\\BugetoStars_Practical\\WebSite.EndPoints\\wwwroot\\Theme\\assets\\fonts\\shabnam\\Shabnam-Bold.woff2",
+      "PackagePath": "staticwebassets\\Theme\\assets\\fonts\\shabnam\\Shabnam-Bold.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Mohsen\\source\\repos\\BugetoStars_Practical\\WebSite.EndPoints\\wwwroot\\Theme\\assets\\fonts\\shabnam\\Shabnam-Light.eot",
+      "PackagePath": "staticwebassets\\Theme\\assets\\fonts\\shabnam\\Shabnam-Light.eot"
+    },
+    {
+      "Id": "C:\\Users\\Mohsen\\source\\repos\\BugetoStars_Practical\\WebSite.EndPoints\\wwwroot\\Theme\\assets\\fonts\\shabnam\\Shabnam-Light.ttf",
+      "PackagePath": "staticwebassets\\Theme\\assets\\fonts\\shabnam\\Shabnam-Light.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Mohsen\\source\\repos\\BugetoStars_Practical\\WebSite.EndPoints\\wwwroot\\Theme\\assets\\fonts\\shabnam\\Shabnam-Light.woff",
+      "PackagePath": "staticwebassets\\Theme\\assets\\fonts\\shabnam\\Shabnam-Light.woff"
+    },
+    {
+      "Id": "C:\\Users\\Mohsen\\source\\repos\\BugetoStars_Practical\\WebSite.EndPoints\\wwwroot\\Theme\\assets\\fonts\\shabnam\\Shabnam-Light.woff2",
+      "PackagePath": "staticwebassets\\Theme\\assets\\fonts\\shabnam\\Shabnam-Light.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Mohsen\\source\\repos\\BugetoStars_Practical\\WebSite.EndPoints\\wwwroot\\Theme\\assets\\fonts\\shabnam\\Shabnam-Medium.eot",
+      "PackagePath": "staticwebassets\\Theme\\assets\\fonts\\shabnam\\Shabnam-Medium.eot"
+    },
+    {
+      "Id": "C:\\Users\\Mohsen\\source\\repos\\BugetoStars_Practical\\WebSite.EndPoints\\wwwroot\\Theme\\assets\\fonts\\shabnam\\Shabnam-Medium.ttf",
+      "PackagePath": "staticwebassets\\Theme\\assets\\fonts\\shabnam\\Shabnam-Medium.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Mohsen\\source\\repos\\BugetoStars_Practical\\WebSite.EndPoints\\wwwroot\\Theme\\assets\\fonts\\shabnam\\Shabnam-Medium.woff",
+      "PackagePath": "staticwebassets\\Theme\\assets\\fonts\\shabnam\\Shabnam-Medium.woff"
+    },
+    {
+      "Id": "C:\\Users\\Mohsen\\source\\repos\\BugetoStars_Practical\\WebSite.EndPoints\\wwwroot\\Theme\\assets\\fonts\\shabnam\\Shabnam-Medium.woff2",
+      "PackagePath": "staticwebassets\\Theme\\assets\\fonts\\shabnam\\Shabnam-Medium.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Mohsen\\source\\repos\\BugetoStars_Practical\\WebSite.EndPoints\\wwwroot\\Theme\\assets\\fonts\\shabnam\\Shabnam-Thin.eot",
+      "PackagePath": "staticwebassets\\Theme\\assets\\fonts\\shabnam\\Shabnam-Thin.eot"
+    },
+    {
+      "Id": "C:\\Users\\Mohsen\\source\\repos\\BugetoStars_Practical\\WebSite.EndPoints\\wwwroot\\Theme\\assets\\fonts\\shabnam\\Shabnam-Thin.ttf",
+      "PackagePath": "staticwebassets\\Theme\\assets\\fonts\\shabnam\\Shabnam-Thin.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Mohsen\\source\\repos\\BugetoStars_Practical\\WebSite.EndPoints\\wwwroot\\Theme\\assets\\fonts\\shabnam\\Shabnam-Thin.woff",
+      "PackagePath": "staticwebassets\\Theme\\assets\\fonts\\shabnam\\Shabnam-Thin.woff"
+    },
+    {
+      "Id": "C:\\Users\\Mohsen\\source\\repos\\BugetoStars_Practical\\WebSite.EndPoints\\wwwroot\\Theme\\assets\\fonts\\shabnam\\Shabnam-Thin.woff2",
+      "PackagePath": "staticwebassets\\Theme\\assets\\fonts\\shabnam\\Shabnam-Thin.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Mohsen\\source\\repos\\BugetoStars_Practical\\WebSite.EndPoints\\wwwroot\\Theme\\assets\\fonts\\shabnam\\Shabnam.eot",
+      "PackagePath": "staticwebassets\\Theme\\assets\\fonts\\shabnam\\Shabnam.eot"
+    },
+    {
+      "Id": "C:\\Users\\Mohsen\\source\\repos\\BugetoStars_Practical\\WebSite.EndPoints\\wwwroot\\Theme\\assets\\fonts\\shabnam\\Shabnam.ttf",
+      "PackagePath": "staticwebassets\\Theme\\assets\\fonts\\shabnam\\Shabnam.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Mohsen\\source\\repos\\BugetoStars_Practical\\WebSite.EndPoints\\wwwroot\\Theme\\assets\\fonts\\shabnam\\Shabnam.woff",
+      "PackagePath": "staticwebassets\\Theme\\assets\\fonts\\shabnam\\Shabnam.woff"
+    },
+    {
+      "Id": "C:\\Users\\Mohsen\\source\\repos\\BugetoStars_Practical\\WebSite.EndPoints\\wwwroot\\Theme\\assets\\fonts\\shabnam\\Shabnam.woff2",
+      "PackagePath": "staticwebassets\\Theme\\assets\\fonts\\shabnam\\Shabnam.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Mohsen\\source\\repos\\BugetoStars_Practical\\WebSite.EndPoints\\wwwroot\\Theme\\assets\\images\\avatar\\avatar.png",
+      "PackagePath": "staticwebassets\\Theme\\assets\\images\\avatar\\avatar.png"
+    },
+    {
+      "Id": "C:\\Users\\Mohsen\\source\\repos\\BugetoStars_Practical\\WebSite.EndPoints\\wwwroot\\Theme\\assets\\images\\banner\\banner-lg-01.gif",
+      "PackagePath": "staticwebassets\\Theme\\assets\\images\\banner\\banner-lg-01.gif"
+    },
+    {
+      "Id": "C:\\Users\\Mohsen\\source\\repos\\BugetoStars_Practical\\WebSite.EndPoints\\wwwroot\\Theme\\assets\\images\\banner\\banner-md-01.jpg",
+      "PackagePath": "staticwebassets\\Theme\\assets\\images\\banner\\banner-md-01.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mohsen\\source\\repos\\BugetoStars_Practical\\WebSite.EndPoints\\wwwroot\\Theme\\assets\\images\\banner\\banner-md-02.jpg",
+      "PackagePath": "staticwebassets\\Theme\\assets\\images\\banner\\banner-md-02.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mohsen\\source\\repos\\BugetoStars_Practical\\WebSite.EndPoints\\wwwroot\\Theme\\assets\\images\\banner\\banner-md-03.gif",
+      "PackagePath": "staticwebassets\\Theme\\assets\\images\\banner\\banner-md-03.gif"
+    },
+    {
+      "Id": "C:\\Users\\Mohsen\\source\\repos\\BugetoStars_Practical\\WebSite.EndPoints\\wwwroot\\Theme\\assets\\images\\banner\\banner-md-04.gif",
+      "PackagePath": "staticwebassets\\Theme\\assets\\images\\banner\\banner-md-04.gif"
+    },
+    {
+      "Id": "C:\\Users\\Mohsen\\source\\repos\\BugetoStars_Practical\\WebSite.EndPoints\\wwwroot\\Theme\\assets\\images\\banner\\banner-md-05.gif",
+      "PackagePath": "staticwebassets\\Theme\\assets\\images\\banner\\banner-md-05.gif"
+    },
+    {
+      "Id": "C:\\Users\\Mohsen\\source\\repos\\BugetoStars_Practical\\WebSite.EndPoints\\wwwroot\\Theme\\assets\\images\\banner\\banner-md-1.jpg",
+      "PackagePath": "staticwebassets\\Theme\\assets\\images\\banner\\banner-md-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mohsen\\source\\repos\\BugetoStars_Practical\\WebSite.EndPoints\\wwwroot\\Theme\\assets\\images\\banner\\banner-md-2.jpg",
+      "PackagePath": "staticwebassets\\Theme\\assets\\images\\banner\\banner-md-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mohsen\\source\\repos\\BugetoStars_Practical\\WebSite.EndPoints\\wwwroot\\Theme\\assets\\images\\banner\\banner-profile-sidebar.jpg",
+      "PackagePath": "staticwebassets\\Theme\\assets\\images\\banner\\banner-profile-sidebar.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mohsen\\source\\repos\\BugetoStars_Practical\\WebSite.EndPoints\\wwwroot\\Theme\\assets\\images\\banner\\banner-sm-01.jpg",
+      "PackagePath": "staticwebassets\\Theme\\assets\\images\\banner\\banner-sm-01.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mohsen\\source\\repos\\BugetoStars_Practical\\WebSite.EndPoints\\wwwroot\\Theme\\assets\\images\\banner\\banner-sm-02.jpg",
+      "PackagePath": "staticwebassets\\Theme\\assets\\images\\banner\\banner-sm-02.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mohsen\\source\\repos\\BugetoStars_Practical\\WebSite.EndPoints\\wwwroot\\Theme\\assets\\images\\banner\\banner-sm-03.jpg",
+      "PackagePath": "staticwebassets\\Theme\\assets\\images\\banner\\banner-sm-03.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mohsen\\source\\repos\\BugetoStars_Practical\\WebSite.EndPoints\\wwwroot\\Theme\\assets\\images\\banner\\banner-sm-04.jpg",
+      "PackagePath": "staticwebassets\\Theme\\assets\\images\\banner\\banner-sm-04.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mohsen\\source\\repos\\BugetoStars_Practical\\WebSite.EndPoints\\wwwroot\\Theme\\assets\\images\\banner\\lg-banner.jpg",
+      "PackagePath": "staticwebassets\\Theme\\assets\\images\\banner\\lg-banner.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mohsen\\source\\repos\\BugetoStars_Practical\\WebSite.EndPoints\\wwwroot\\Theme\\assets\\images\\banner\\xl-banner.jpg",
+      "PackagePath": "staticwebassets\\Theme\\assets\\images\\banner\\xl-banner.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mohsen\\source\\repos\\BugetoStars_Practical\\WebSite.EndPoints\\wwwroot\\Theme\\assets\\images\\blog\\201019-xiaomi-80w-wireless-charging-2_ht6z-284x180.jpg",
+      "PackagePath": "staticwebassets\\Theme\\assets\\images\\blog\\201019-xiaomi-80w-wireless-charging-2_ht6z-284x180.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mohsen\\source\\repos\\BugetoStars_Practical\\WebSite.EndPoints\\wwwroot\\Theme\\assets\\images\\blog\\20210113_135903-284x180.jpg",
+      "PackagePath": "staticwebassets\\Theme\\assets\\images\\blog\\20210113_135903-284x180.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mohsen\\source\\repos\\BugetoStars_Practical\\WebSite.EndPoints\\wwwroot\\Theme\\assets\\images\\blog\\Chicory-Root-1-284x180.jpg",
+      "PackagePath": "staticwebassets\\Theme\\assets\\images\\blog\\Chicory-Root-1-284x180.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mohsen\\source\\repos\\BugetoStars_Practical\\WebSite.EndPoints\\wwwroot\\Theme\\assets\\images\\blog\\Galaxy-S21-Ultra-1-284x180.jpg",
+      "PackagePath": "staticwebassets\\Theme\\assets\\images\\blog\\Galaxy-S21-Ultra-1-284x180.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mohsen\\source\\repos\\BugetoStars_Practical\\WebSite.EndPoints\\wwwroot\\Theme\\assets\\images\\blog\\MacBook-Pro-2-Side-284x180.jpg",
+      "PackagePath": "staticwebassets\\Theme\\assets\\images\\blog\\MacBook-Pro-2-Side-284x180.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mohsen\\source\\repos\\BugetoStars_Practical\\WebSite.EndPoints\\wwwroot\\Theme\\assets\\images\\blog\\S21-Ultra-S-Pen-1-284x180.jpg",
+      "PackagePath": "staticwebassets\\Theme\\assets\\images\\blog\\S21-Ultra-S-Pen-1-284x180.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mohsen\\source\\repos\\BugetoStars_Practical\\WebSite.EndPoints\\wwwroot\\Theme\\assets\\images\\blog\\Samsung-Galaxy-S21-1-1-284x180.jpg",
+      "PackagePath": "staticwebassets\\Theme\\assets\\images\\blog\\Samsung-Galaxy-S21-1-1-284x180.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mohsen\\source\\repos\\BugetoStars_Practical\\WebSite.EndPoints\\wwwroot\\Theme\\assets\\images\\blog\\Samsung-SmartThings-Goog-Android-Auto-Integration-284x180.jpg",
+      "PackagePath": "staticwebassets\\Theme\\assets\\images\\blog\\Samsung-SmartThings-Goog-Android-Auto-Integration-284x180.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mohsen\\source\\repos\\BugetoStars_Practical\\WebSite.EndPoints\\wwwroot\\Theme\\assets\\images\\blog\\Samsungs-under-display-camera-284x180.jpg",
+      "PackagePath": "staticwebassets\\Theme\\assets\\images\\blog\\Samsungs-under-display-camera-284x180.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mohsen\\source\\repos\\BugetoStars_Practical\\WebSite.EndPoints\\wwwroot\\Theme\\assets\\images\\blog\\blog-detail\\WhatsApp-1.jpg",
+      "PackagePath": "staticwebassets\\Theme\\assets\\images\\blog\\blog-detail\\WhatsApp-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mohsen\\source\\repos\\BugetoStars_Practical\\WebSite.EndPoints\\wwwroot\\Theme\\assets\\images\\blog\\blog-detail\\WhatsApp-2.jpg",
+      "PackagePath": "staticwebassets\\Theme\\assets\\images\\blog\\blog-detail\\WhatsApp-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mohsen\\source\\repos\\BugetoStars_Practical\\WebSite.EndPoints\\wwwroot\\Theme\\assets\\images\\blog\\dacia-bigster-concept-01-1-284x180.jpg",
+      "PackagePath": "staticwebassets\\Theme\\assets\\images\\blog\\dacia-bigster-concept-01-1-284x180.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mohsen\\source\\repos\\BugetoStars_Practical\\WebSite.EndPoints\\wwwroot\\Theme\\assets\\images\\blog\\darren-aronofsky-284x180.jpg",
+      "PackagePath": "staticwebassets\\Theme\\assets\\images\\blog\\darren-aronofsky-284x180.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mohsen\\source\\repos\\BugetoStars_Practical\\WebSite.EndPoints\\wwwroot\\Theme\\assets\\images\\blog\\john-wilson-284x180.jpg",
+      "PackagePath": "staticwebassets\\Theme\\assets\\images\\blog\\john-wilson-284x180.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mohsen\\source\\repos\\BugetoStars_Practical\\WebSite.EndPoints\\wwwroot\\Theme\\assets\\images\\blog\\samsung-galaxy-buds-pro-2-284x180.jpg",
+      "PackagePath": "staticwebassets\\Theme\\assets\\images\\blog\\samsung-galaxy-buds-pro-2-284x180.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mohsen\\source\\repos\\BugetoStars_Practical\\WebSite.EndPoints\\wwwroot\\Theme\\assets\\images\\blog\\samsung-galaxy-smarttag-item-tracker-284x180.jpg",
+      "PackagePath": "staticwebassets\\Theme\\assets\\images\\blog\\samsung-galaxy-smarttag-item-tracker-284x180.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mohsen\\source\\repos\\BugetoStars_Practical\\WebSite.EndPoints\\wwwroot\\Theme\\assets\\images\\cart\\cart01.jpg",
+      "PackagePath": "staticwebassets\\Theme\\assets\\images\\cart\\cart01.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mohsen\\source\\repos\\BugetoStars_Practical\\WebSite.EndPoints\\wwwroot\\Theme\\assets\\images\\cart\\cart02.jpg",
+      "PackagePath": "staticwebassets\\Theme\\assets\\images\\cart\\cart02.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mohsen\\source\\repos\\BugetoStars_Practical\\WebSite.EndPoints\\wwwroot\\Theme\\assets\\images\\cart\\cart03.jpg",
+      "PackagePath": "staticwebassets\\Theme\\assets\\images\\cart\\cart03.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mohsen\\source\\repos\\BugetoStars_Practical\\WebSite.EndPoints\\wwwroot\\Theme\\assets\\images\\cart\\item-1.jpg",
+      "PackagePath": "staticwebassets\\Theme\\assets\\images\\cart\\item-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mohsen\\source\\repos\\BugetoStars_Practical\\WebSite.EndPoints\\wwwroot\\Theme\\assets\\images\\cart\\item-2.jpg",
+      "PackagePath": "staticwebassets\\Theme\\assets\\images\\cart\\item-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mohsen\\source\\repos\\BugetoStars_Practical\\WebSite.EndPoints\\wwwroot\\Theme\\assets\\images\\cart\\item-3.jpg",
+      "PackagePath": "staticwebassets\\Theme\\assets\\images\\cart\\item-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mohsen\\source\\repos\\BugetoStars_Practical\\WebSite.EndPoints\\wwwroot\\Theme\\assets\\images\\gallery\\01.png",
+      "PackagePath": "staticwebassets\\Theme\\assets\\images\\gallery\\01.png"
+    },
+    {
+      "Id": "C:\\Users\\Mohsen\\source\\repos\\BugetoStars_Practical\\WebSite.EndPoints\\wwwroot\\Theme\\assets\\images\\gallery\\02.png",
+      "PackagePath": "staticwebassets\\Theme\\assets\\images\\gallery\\02.png"
+    },
+    {
+      "Id": "C:\\Users\\Mohsen\\source\\repos\\BugetoStars_Practical\\WebSite.EndPoints\\wwwroot\\Theme\\assets\\images\\gallery\\03.png",
+      "PackagePath": "staticwebassets\\Theme\\assets\\images\\gallery\\03.png"
+    },
+    {
+      "Id": "C:\\Users\\Mohsen\\source\\repos\\BugetoStars_Practical\\WebSite.EndPoints\\wwwroot\\Theme\\assets\\images\\gallery\\04.png",
+      "PackagePath": "staticwebassets\\Theme\\assets\\images\\gallery\\04.png"
+    },
+    {
+      "Id": "C:\\Users\\Mohsen\\source\\repos\\BugetoStars_Practical\\WebSite.EndPoints\\wwwroot\\Theme\\assets\\images\\gallery\\05.png",
+      "PackagePath": "staticwebassets\\Theme\\assets\\images\\gallery\\05.png"
+    },
+    {
+      "Id": "C:\\Users\\Mohsen\\source\\repos\\BugetoStars_Practical\\WebSite.EndPoints\\wwwroot\\Theme\\assets\\images\\gallery\\06.png",
+      "PackagePath": "staticwebassets\\Theme\\assets\\images\\gallery\\06.png"
+    },
+    {
+      "Id": "C:\\Users\\Mohsen\\source\\repos\\BugetoStars_Practical\\WebSite.EndPoints\\wwwroot\\Theme\\assets\\images\\gallery\\07.png",
+      "PackagePath": "staticwebassets\\Theme\\assets\\images\\gallery\\07.png"
+    },
+    {
+      "Id": "C:\\Users\\Mohsen\\source\\repos\\BugetoStars_Practical\\WebSite.EndPoints\\wwwroot\\Theme\\assets\\images\\gallery\\08.png",
+      "PackagePath": "staticwebassets\\Theme\\assets\\images\\gallery\\08.png"
+    },
+    {
+      "Id": "C:\\Users\\Mohsen\\source\\repos\\BugetoStars_Practical\\WebSite.EndPoints\\wwwroot\\Theme\\assets\\images\\logo-light.png",
+      "PackagePath": "staticwebassets\\Theme\\assets\\images\\logo-light.png"
+    },
+    {
+      "Id": "C:\\Users\\Mohsen\\source\\repos\\BugetoStars_Practical\\WebSite.EndPoints\\wwwroot\\Theme\\assets\\images\\logo.png",
+      "PackagePath": "staticwebassets\\Theme\\assets\\images\\logo.png"
+    },
+    {
+      "Id": "C:\\Users\\Mohsen\\source\\repos\\BugetoStars_Practical\\WebSite.EndPoints\\wwwroot\\Theme\\assets\\images\\main-slider\\slider-1.jpg",
+      "PackagePath": "staticwebassets\\Theme\\assets\\images\\main-slider\\slider-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mohsen\\source\\repos\\BugetoStars_Practical\\WebSite.EndPoints\\wwwroot\\Theme\\assets\\images\\main-slider\\slider-2.jpg",
+      "PackagePath": "staticwebassets\\Theme\\assets\\images\\main-slider\\slider-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mohsen\\source\\repos\\BugetoStars_Practical\\WebSite.EndPoints\\wwwroot\\Theme\\assets\\images\\main-slider\\slider-3.jpg",
+      "PackagePath": "staticwebassets\\Theme\\assets\\images\\main-slider\\slider-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mohsen\\source\\repos\\BugetoStars_Practical\\WebSite.EndPoints\\wwwroot\\Theme\\assets\\images\\main-slider\\slider-4.jpg",
+      "PackagePath": "staticwebassets\\Theme\\assets\\images\\main-slider\\slider-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mohsen\\source\\repos\\BugetoStars_Practical\\WebSite.EndPoints\\wwwroot\\Theme\\assets\\images\\main-slider\\slider-5.jpg",
+      "PackagePath": "staticwebassets\\Theme\\assets\\images\\main-slider\\slider-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mohsen\\source\\repos\\BugetoStars_Practical\\WebSite.EndPoints\\wwwroot\\Theme\\assets\\images\\main-slider\\slider-6.jpg",
+      "PackagePath": "staticwebassets\\Theme\\assets\\images\\main-slider\\slider-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mohsen\\source\\repos\\BugetoStars_Practical\\WebSite.EndPoints\\wwwroot\\Theme\\assets\\images\\main-slider\\slider-7.jpg",
+      "PackagePath": "staticwebassets\\Theme\\assets\\images\\main-slider\\slider-7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mohsen\\source\\repos\\BugetoStars_Practical\\WebSite.EndPoints\\wwwroot\\Theme\\assets\\images\\main-slider\\slider-8.jpg",
+      "PackagePath": "staticwebassets\\Theme\\assets\\images\\main-slider\\slider-8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mohsen\\source\\repos\\BugetoStars_Practical\\WebSite.EndPoints\\wwwroot\\Theme\\assets\\images\\main-slider\\slider-9.jpg",
+      "PackagePath": "staticwebassets\\Theme\\assets\\images\\main-slider\\slider-9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mohsen\\source\\repos\\BugetoStars_Practical\\WebSite.EndPoints\\wwwroot\\Theme\\assets\\images\\mega-menu\\01.jpg",
+      "PackagePath": "staticwebassets\\Theme\\assets\\images\\mega-menu\\01.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mohsen\\source\\repos\\BugetoStars_Practical\\WebSite.EndPoints\\wwwroot\\Theme\\assets\\images\\mega-menu\\amazing-offer.jpg",
+      "PackagePath": "staticwebassets\\Theme\\assets\\images\\mega-menu\\amazing-offer.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mohsen\\source\\repos\\BugetoStars_Practical\\WebSite.EndPoints\\wwwroot\\Theme\\assets\\images\\mega-menu\\brand-1.jpg",
+      "PackagePath": "staticwebassets\\Theme\\assets\\images\\mega-menu\\brand-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mohsen\\source\\repos\\BugetoStars_Practical\\WebSite.EndPoints\\wwwroot\\Theme\\assets\\images\\mega-menu\\brand-2.jpg",
+      "PackagePath": "staticwebassets\\Theme\\assets\\images\\mega-menu\\brand-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mohsen\\source\\repos\\BugetoStars_Practical\\WebSite.EndPoints\\wwwroot\\Theme\\assets\\images\\mega-menu\\brand-3.jpg",
+      "PackagePath": "staticwebassets\\Theme\\assets\\images\\mega-menu\\brand-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mohsen\\source\\repos\\BugetoStars_Practical\\WebSite.EndPoints\\wwwroot\\Theme\\assets\\images\\offer-slider\\01.jpg",
+      "PackagePath": "staticwebassets\\Theme\\assets\\images\\offer-slider\\01.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mohsen\\source\\repos\\BugetoStars_Practical\\WebSite.EndPoints\\wwwroot\\Theme\\assets\\images\\offer-slider\\02.jpg",
+      "PackagePath": "staticwebassets\\Theme\\assets\\images\\offer-slider\\02.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mohsen\\source\\repos\\BugetoStars_Practical\\WebSite.EndPoints\\wwwroot\\Theme\\assets\\images\\offer-slider\\03.jpg",
+      "PackagePath": "staticwebassets\\Theme\\assets\\images\\offer-slider\\03.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mohsen\\source\\repos\\BugetoStars_Practical\\WebSite.EndPoints\\wwwroot\\Theme\\assets\\images\\offer-slider\\04.jpg",
+      "PackagePath": "staticwebassets\\Theme\\assets\\images\\offer-slider\\04.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mohsen\\source\\repos\\BugetoStars_Practical\\WebSite.EndPoints\\wwwroot\\Theme\\assets\\images\\offer-slider\\05.jpg",
+      "PackagePath": "staticwebassets\\Theme\\assets\\images\\offer-slider\\05.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mohsen\\source\\repos\\BugetoStars_Practical\\WebSite.EndPoints\\wwwroot\\Theme\\assets\\images\\product-list\\01.jpg",
+      "PackagePath": "staticwebassets\\Theme\\assets\\images\\product-list\\01.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mohsen\\source\\repos\\BugetoStars_Practical\\WebSite.EndPoints\\wwwroot\\Theme\\assets\\images\\product-list\\02.jpg",
+      "PackagePath": "staticwebassets\\Theme\\assets\\images\\product-list\\02.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mohsen\\source\\repos\\BugetoStars_Practical\\WebSite.EndPoints\\wwwroot\\Theme\\assets\\images\\product-list\\03.jpg",
+      "PackagePath": "staticwebassets\\Theme\\assets\\images\\product-list\\03.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mohsen\\source\\repos\\BugetoStars_Practical\\WebSite.EndPoints\\wwwroot\\Theme\\assets\\images\\products\\01.jpg",
+      "PackagePath": "staticwebassets\\Theme\\assets\\images\\products\\01.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mohsen\\source\\repos\\BugetoStars_Practical\\WebSite.EndPoints\\wwwroot\\Theme\\assets\\images\\products\\02.jpg",
+      "PackagePath": "staticwebassets\\Theme\\assets\\images\\products\\02.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mohsen\\source\\repos\\BugetoStars_Practical\\WebSite.EndPoints\\wwwroot\\Theme\\assets\\images\\products\\021.jpg",
+      "PackagePath": "staticwebassets\\Theme\\assets\\images\\products\\021.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mohsen\\source\\repos\\BugetoStars_Practical\\WebSite.EndPoints\\wwwroot\\Theme\\assets\\images\\products\\022.jpg",
+      "PackagePath": "staticwebassets\\Theme\\assets\\images\\products\\022.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mohsen\\source\\repos\\BugetoStars_Practical\\WebSite.EndPoints\\wwwroot\\Theme\\assets\\images\\products\\023.jpg",
+      "PackagePath": "staticwebassets\\Theme\\assets\\images\\products\\023.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mohsen\\source\\repos\\BugetoStars_Practical\\WebSite.EndPoints\\wwwroot\\Theme\\assets\\images\\products\\024.jpg",
+      "PackagePath": "staticwebassets\\Theme\\assets\\images\\products\\024.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mohsen\\source\\repos\\BugetoStars_Practical\\WebSite.EndPoints\\wwwroot\\Theme\\assets\\images\\products\\025.jpg",
+      "PackagePath": "staticwebassets\\Theme\\assets\\images\\products\\025.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mohsen\\source\\repos\\BugetoStars_Practical\\WebSite.EndPoints\\wwwroot\\Theme\\assets\\images\\products\\026.jpg",
+      "PackagePath": "staticwebassets\\Theme\\assets\\images\\products\\026.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mohsen\\source\\repos\\BugetoStars_Practical\\WebSite.EndPoints\\wwwroot\\Theme\\assets\\images\\products\\027.jpg",
+      "PackagePath": "staticwebassets\\Theme\\assets\\images\\products\\027.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mohsen\\source\\repos\\BugetoStars_Practical\\WebSite.EndPoints\\wwwroot\\Theme\\assets\\images\\products\\028.jpg",
+      "PackagePath": "staticwebassets\\Theme\\assets\\images\\products\\028.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mohsen\\source\\repos\\BugetoStars_Practical\\WebSite.EndPoints\\wwwroot\\Theme\\assets\\images\\products\\029.jpg",
+      "PackagePath": "staticwebassets\\Theme\\assets\\images\\products\\029.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mohsen\\source\\repos\\BugetoStars_Practical\\WebSite.EndPoints\\wwwroot\\Theme\\assets\\images\\products\\03.jpg",
+      "PackagePath": "staticwebassets\\Theme\\assets\\images\\products\\03.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mohsen\\source\\repos\\BugetoStars_Practical\\WebSite.EndPoints\\wwwroot\\Theme\\assets\\images\\products\\030.jpg",
+      "PackagePath": "staticwebassets\\Theme\\assets\\images\\products\\030.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mohsen\\source\\repos\\BugetoStars_Practical\\WebSite.EndPoints\\wwwroot\\Theme\\assets\\images\\products\\031.jpg",
+      "PackagePath": "staticwebassets\\Theme\\assets\\images\\products\\031.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mohsen\\source\\repos\\BugetoStars_Practical\\WebSite.EndPoints\\wwwroot\\Theme\\assets\\images\\products\\032.jpg",
+      "PackagePath": "staticwebassets\\Theme\\assets\\images\\products\\032.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mohsen\\source\\repos\\BugetoStars_Practical\\WebSite.EndPoints\\wwwroot\\Theme\\assets\\images\\products\\033.jpg",
+      "PackagePath": "staticwebassets\\Theme\\assets\\images\\products\\033.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mohsen\\source\\repos\\BugetoStars_Practical\\WebSite.EndPoints\\wwwroot\\Theme\\assets\\images\\products\\034.jpg",
+      "PackagePath": "staticwebassets\\Theme\\assets\\images\\products\\034.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mohsen\\source\\repos\\BugetoStars_Practical\\WebSite.EndPoints\\wwwroot\\Theme\\assets\\images\\products\\035.jpg",
+      "PackagePath": "staticwebassets\\Theme\\assets\\images\\products\\035.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mohsen\\source\\repos\\BugetoStars_Practical\\WebSite.EndPoints\\wwwroot\\Theme\\assets\\images\\products\\036.jpg",
+      "PackagePath": "staticwebassets\\Theme\\assets\\images\\products\\036.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mohsen\\source\\repos\\BugetoStars_Practical\\WebSite.EndPoints\\wwwroot\\Theme\\assets\\images\\products\\04.jpg",
+      "PackagePath": "staticwebassets\\Theme\\assets\\images\\products\\04.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mohsen\\source\\repos\\BugetoStars_Practical\\WebSite.EndPoints\\wwwroot\\Theme\\assets\\images\\products\\05.jpg",
+      "PackagePath": "staticwebassets\\Theme\\assets\\images\\products\\05.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mohsen\\source\\repos\\BugetoStars_Practical\\WebSite.EndPoints\\wwwroot\\Theme\\assets\\images\\products\\06.jpg",
+      "PackagePath": "staticwebassets\\Theme\\assets\\images\\products\\06.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mohsen\\source\\repos\\BugetoStars_Practical\\WebSite.EndPoints\\wwwroot\\Theme\\assets\\images\\products\\07.jpg",
+      "PackagePath": "staticwebassets\\Theme\\assets\\images\\products\\07.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mohsen\\source\\repos\\BugetoStars_Practical\\WebSite.EndPoints\\wwwroot\\Theme\\assets\\images\\products\\08.jpg",
+      "PackagePath": "staticwebassets\\Theme\\assets\\images\\products\\08.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mohsen\\source\\repos\\BugetoStars_Practical\\WebSite.EndPoints\\wwwroot\\Theme\\assets\\images\\products\\file\\product-item-1.png",
+      "PackagePath": "staticwebassets\\Theme\\assets\\images\\products\\file\\product-item-1.png"
+    },
+    {
+      "Id": "C:\\Users\\Mohsen\\source\\repos\\BugetoStars_Practical\\WebSite.EndPoints\\wwwroot\\Theme\\assets\\images\\products\\file\\product-item-md.png",
+      "PackagePath": "staticwebassets\\Theme\\assets\\images\\products\\file\\product-item-md.png"
+    },
+    {
+      "Id": "C:\\Users\\Mohsen\\source\\repos\\BugetoStars_Practical\\WebSite.EndPoints\\wwwroot\\Theme\\assets\\images\\services\\debit-card.png",
+      "PackagePath": "staticwebassets\\Theme\\assets\\images\\services\\debit-card.png"
+    },
+    {
+      "Id": "C:\\Users\\Mohsen\\source\\repos\\BugetoStars_Practical\\WebSite.EndPoints\\wwwroot\\Theme\\assets\\images\\services\\delivery-person.png",
+      "PackagePath": "staticwebassets\\Theme\\assets\\images\\services\\delivery-person.png"
+    },
+    {
+      "Id": "C:\\Users\\Mohsen\\source\\repos\\BugetoStars_Practical\\WebSite.EndPoints\\wwwroot\\Theme\\assets\\images\\services\\headset.png",
+      "PackagePath": "staticwebassets\\Theme\\assets\\images\\services\\headset.png"
+    },
+    {
+      "Id": "C:\\Users\\Mohsen\\source\\repos\\BugetoStars_Practical\\WebSite.EndPoints\\wwwroot\\Theme\\assets\\images\\services\\recieve.png",
+      "PackagePath": "staticwebassets\\Theme\\assets\\images\\services\\recieve.png"
+    },
+    {
+      "Id": "C:\\Users\\Mohsen\\source\\repos\\BugetoStars_Practical\\WebSite.EndPoints\\wwwroot\\Theme\\assets\\images\\single-product\\01.jpg",
+      "PackagePath": "staticwebassets\\Theme\\assets\\images\\single-product\\01.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mohsen\\source\\repos\\BugetoStars_Practical\\WebSite.EndPoints\\wwwroot\\Theme\\assets\\images\\single-product\\02.jpg",
+      "PackagePath": "staticwebassets\\Theme\\assets\\images\\single-product\\02.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mohsen\\source\\repos\\BugetoStars_Practical\\WebSite.EndPoints\\wwwroot\\Theme\\assets\\images\\single-product\\03.jpg",
+      "PackagePath": "staticwebassets\\Theme\\assets\\images\\single-product\\03.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mohsen\\source\\repos\\BugetoStars_Practical\\WebSite.EndPoints\\wwwroot\\Theme\\assets\\images\\single-product\\04.jpg",
+      "PackagePath": "staticwebassets\\Theme\\assets\\images\\single-product\\04.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mohsen\\source\\repos\\BugetoStars_Practical\\WebSite.EndPoints\\wwwroot\\Theme\\assets\\images\\single-product\\05.jpg",
+      "PackagePath": "staticwebassets\\Theme\\assets\\images\\single-product\\05.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mohsen\\source\\repos\\BugetoStars_Practical\\WebSite.EndPoints\\wwwroot\\Theme\\assets\\images\\single-product\\06.jpg",
+      "PackagePath": "staticwebassets\\Theme\\assets\\images\\single-product\\06.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mohsen\\source\\repos\\BugetoStars_Practical\\WebSite.EndPoints\\wwwroot\\Theme\\assets\\images\\single-product\\07.jpg",
+      "PackagePath": "staticwebassets\\Theme\\assets\\images\\single-product\\07.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mohsen\\source\\repos\\BugetoStars_Practical\\WebSite.EndPoints\\wwwroot\\Theme\\assets\\images\\theme\\404.png",
+      "PackagePath": "staticwebassets\\Theme\\assets\\images\\theme\\404.png"
+    },
+    {
+      "Id": "C:\\Users\\Mohsen\\source\\repos\\BugetoStars_Practical\\WebSite.EndPoints\\wwwroot\\Theme\\assets\\images\\theme\\404.svg",
+      "PackagePath": "staticwebassets\\Theme\\assets\\images\\theme\\404.svg"
+    },
+    {
+      "Id": "C:\\Users\\Mohsen\\source\\repos\\BugetoStars_Practical\\WebSite.EndPoints\\wwwroot\\Theme\\assets\\images\\theme\\add-to-cart.png",
+      "PackagePath": "staticwebassets\\Theme\\assets\\images\\theme\\add-to-cart.png"
+    },
+    {
+      "Id": "C:\\Users\\Mohsen\\source\\repos\\BugetoStars_Practical\\WebSite.EndPoints\\wwwroot\\Theme\\assets\\images\\theme\\search.svg",
+      "PackagePath": "staticwebassets\\Theme\\assets\\images\\theme\\search.svg"
+    },
+    {
+      "Id": "C:\\Users\\Mohsen\\source\\repos\\BugetoStars_Practical\\WebSite.EndPoints\\wwwroot\\Theme\\assets\\images\\theme\\shape-top-footer.svg",
+      "PackagePath": "staticwebassets\\Theme\\assets\\images\\theme\\shape-top-footer.svg"
+    },
+    {
+      "Id": "C:\\Users\\Mohsen\\source\\repos\\BugetoStars_Practical\\WebSite.EndPoints\\wwwroot\\Theme\\assets\\js\\custom.js",
+      "PackagePath": "staticwebassets\\Theme\\assets\\js\\custom.js"
+    },
+    {
+      "Id": "C:\\Users\\Mohsen\\source\\repos\\BugetoStars_Practical\\WebSite.EndPoints\\wwwroot\\Theme\\assets\\js\\jquery-3.5.1.min.js",
+      "PackagePath": "staticwebassets\\Theme\\assets\\js\\jquery-3.5.1.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Mohsen\\source\\repos\\BugetoStars_Practical\\WebSite.EndPoints\\wwwroot\\Theme\\assets\\js\\plugins\\ResizeSensor.min.js",
+      "PackagePath": "staticwebassets\\Theme\\assets\\js\\plugins\\ResizeSensor.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Mohsen\\source\\repos\\BugetoStars_Practical\\WebSite.EndPoints\\wwwroot\\Theme\\assets\\js\\plugins\\apexcharts.min.js",
+      "PackagePath": "staticwebassets\\Theme\\assets\\js\\plugins\\apexcharts.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Mohsen\\source\\repos\\BugetoStars_Practical\\WebSite.EndPoints\\wwwroot\\Theme\\assets\\js\\plugins\\jquery.classycountdown.min.js",
+      "PackagePath": "staticwebassets\\Theme\\assets\\js\\plugins\\jquery.classycountdown.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Mohsen\\source\\repos\\BugetoStars_Practical\\WebSite.EndPoints\\wwwroot\\Theme\\assets\\js\\plugins\\jquery.ez-plus.js",
+      "PackagePath": "staticwebassets\\Theme\\assets\\js\\plugins\\jquery.ez-plus.js"
+    },
+    {
+      "Id": "C:\\Users\\Mohsen\\source\\repos\\BugetoStars_Practical\\WebSite.EndPoints\\wwwroot\\Theme\\assets\\js\\plugins\\jquery.knob.js",
+      "PackagePath": "staticwebassets\\Theme\\assets\\js\\plugins\\jquery.knob.js"
+    },
+    {
+      "Id": "C:\\Users\\Mohsen\\source\\repos\\BugetoStars_Practical\\WebSite.EndPoints\\wwwroot\\Theme\\assets\\js\\plugins\\jquery.nicescroll.min.js",
+      "PackagePath": "staticwebassets\\Theme\\assets\\js\\plugins\\jquery.nicescroll.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Mohsen\\source\\repos\\BugetoStars_Practical\\WebSite.EndPoints\\wwwroot\\Theme\\assets\\js\\plugins\\jquery.throttle.js",
+      "PackagePath": "staticwebassets\\Theme\\assets\\js\\plugins\\jquery.throttle.js"
+    },
+    {
+      "Id": "C:\\Users\\Mohsen\\source\\repos\\BugetoStars_Practical\\WebSite.EndPoints\\wwwroot\\Theme\\assets\\js\\plugins\\macy.js",
+      "PackagePath": "staticwebassets\\Theme\\assets\\js\\plugins\\macy.js"
+    },
+    {
+      "Id": "C:\\Users\\Mohsen\\source\\repos\\BugetoStars_Practical\\WebSite.EndPoints\\wwwroot\\Theme\\assets\\js\\plugins\\nouislider.min.js",
+      "PackagePath": "staticwebassets\\Theme\\assets\\js\\plugins\\nouislider.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Mohsen\\source\\repos\\BugetoStars_Practical\\WebSite.EndPoints\\wwwroot\\Theme\\assets\\js\\plugins\\popper.min.js",
+      "PackagePath": "staticwebassets\\Theme\\assets\\js\\plugins\\popper.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Mohsen\\source\\repos\\BugetoStars_Practical\\WebSite.EndPoints\\wwwroot\\Theme\\assets\\js\\plugins\\select2.full.min.js",
+      "PackagePath": "staticwebassets\\Theme\\assets\\js\\plugins\\select2.full.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Mohsen\\source\\repos\\BugetoStars_Practical\\WebSite.EndPoints\\wwwroot\\Theme\\assets\\js\\plugins\\swiper.min.js",
+      "PackagePath": "staticwebassets\\Theme\\assets\\js\\plugins\\swiper.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Mohsen\\source\\repos\\BugetoStars_Practical\\WebSite.EndPoints\\wwwroot\\Theme\\assets\\js\\plugins\\theia-sticky-sidebar.min.js",
+      "PackagePath": "staticwebassets\\Theme\\assets\\js\\plugins\\theia-sticky-sidebar.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Mohsen\\source\\repos\\BugetoStars_Practical\\WebSite.EndPoints\\wwwroot\\Theme\\assets\\js\\plugins\\wNumb.js",
+      "PackagePath": "staticwebassets\\Theme\\assets\\js\\plugins\\wNumb.js"
+    },
+    {
+      "Id": "C:\\Users\\Mohsen\\source\\repos\\BugetoStars_Practical\\WebSite.EndPoints\\wwwroot\\Theme\\assets\\js\\theme.js",
+      "PackagePath": "staticwebassets\\Theme\\assets\\js\\theme.js"
+    },
+    {
+      "Id": "C:\\Users\\Mohsen\\source\\repos\\BugetoStars_Practical\\WebSite.EndPoints\\wwwroot\\Theme\\blog-detail.html",
+      "PackagePath": "staticwebassets\\Theme\\blog-detail.html"
+    },
+    {
+      "Id": "C:\\Users\\Mohsen\\source\\repos\\BugetoStars_Practical\\WebSite.EndPoints\\wwwroot\\Theme\\blog.html",
+      "PackagePath": "staticwebassets\\Theme\\blog.html"
+    },
+    {
+      "Id": "C:\\Users\\Mohsen\\source\\repos\\BugetoStars_Practical\\WebSite.EndPoints\\wwwroot\\Theme\\cart.html",
+      "PackagePath": "staticwebassets\\Theme\\cart.html"
+    },
+    {
+      "Id": "C:\\Users\\Mohsen\\source\\repos\\BugetoStars_Practical\\WebSite.EndPoints\\wwwroot\\Theme\\compare-2.html",
+      "PackagePath": "staticwebassets\\Theme\\compare-2.html"
+    },
+    {
+      "Id": "C:\\Users\\Mohsen\\source\\repos\\BugetoStars_Practical\\WebSite.EndPoints\\wwwroot\\Theme\\compare.html",
+      "PackagePath": "staticwebassets\\Theme\\compare.html"
+    },
+    {
+      "Id": "C:\\Users\\Mohsen\\source\\repos\\BugetoStars_Practical\\WebSite.EndPoints\\wwwroot\\Theme\\contact-us.html",
+      "PackagePath": "staticwebassets\\Theme\\contact-us.html"
+    },
+    {
+      "Id": "C:\\Users\\Mohsen\\source\\repos\\BugetoStars_Practical\\WebSite.EndPoints\\wwwroot\\Theme\\docs.html",
+      "PackagePath": "staticwebassets\\Theme\\docs.html"
+    },
+    {
+      "Id": "C:\\Users\\Mohsen\\source\\repos\\BugetoStars_Practical\\WebSite.EndPoints\\wwwroot\\Theme\\index-2.html",
+      "PackagePath": "staticwebassets\\Theme\\index-2.html"
+    },
+    {
+      "Id": "C:\\Users\\Mohsen\\source\\repos\\BugetoStars_Practical\\WebSite.EndPoints\\wwwroot\\Theme\\index.html",
+      "PackagePath": "staticwebassets\\Theme\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\Mohsen\\source\\repos\\BugetoStars_Practical\\WebSite.EndPoints\\wwwroot\\Theme\\login.html",
+      "PackagePath": "staticwebassets\\Theme\\login.html"
+    },
+    {
+      "Id": "C:\\Users\\Mohsen\\source\\repos\\BugetoStars_Practical\\WebSite.EndPoints\\wwwroot\\Theme\\password-forgot.html",
+      "PackagePath": "staticwebassets\\Theme\\password-forgot.html"
+    },
+    {
+      "Id": "C:\\Users\\Mohsen\\source\\repos\\BugetoStars_Practical\\WebSite.EndPoints\\wwwroot\\Theme\\password-reset.html",
+      "PackagePath": "staticwebassets\\Theme\\password-reset.html"
+    },
+    {
+      "Id": "C:\\Users\\Mohsen\\source\\repos\\BugetoStars_Practical\\WebSite.EndPoints\\wwwroot\\Theme\\profile-addresses.html",
+      "PackagePath": "staticwebassets\\Theme\\profile-addresses.html"
+    },
+    {
+      "Id": "C:\\Users\\Mohsen\\source\\repos\\BugetoStars_Practical\\WebSite.EndPoints\\wwwroot\\Theme\\profile-comments.html",
+      "PackagePath": "staticwebassets\\Theme\\profile-comments.html"
+    },
+    {
+      "Id": "C:\\Users\\Mohsen\\source\\repos\\BugetoStars_Practical\\WebSite.EndPoints\\wwwroot\\Theme\\profile-favorites.html",
+      "PackagePath": "staticwebassets\\Theme\\profile-favorites.html"
+    },
+    {
+      "Id": "C:\\Users\\Mohsen\\source\\repos\\BugetoStars_Practical\\WebSite.EndPoints\\wwwroot\\Theme\\profile-my-order-detail.html",
+      "PackagePath": "staticwebassets\\Theme\\profile-my-order-detail.html"
+    },
+    {
+      "Id": "C:\\Users\\Mohsen\\source\\repos\\BugetoStars_Practical\\WebSite.EndPoints\\wwwroot\\Theme\\profile-my-orders.html",
+      "PackagePath": "staticwebassets\\Theme\\profile-my-orders.html"
+    },
+    {
+      "Id": "C:\\Users\\Mohsen\\source\\repos\\BugetoStars_Practical\\WebSite.EndPoints\\wwwroot\\Theme\\profile-notification.html",
+      "PackagePath": "staticwebassets\\Theme\\profile-notification.html"
+    },
+    {
+      "Id": "C:\\Users\\Mohsen\\source\\repos\\BugetoStars_Practical\\WebSite.EndPoints\\wwwroot\\Theme\\profile-personal-info.html",
+      "PackagePath": "staticwebassets\\Theme\\profile-personal-info.html"
+    },
+    {
+      "Id": "C:\\Users\\Mohsen\\source\\repos\\BugetoStars_Practical\\WebSite.EndPoints\\wwwroot\\Theme\\profile-user-history.html",
+      "PackagePath": "staticwebassets\\Theme\\profile-user-history.html"
+    },
+    {
+      "Id": "C:\\Users\\Mohsen\\source\\repos\\BugetoStars_Practical\\WebSite.EndPoints\\wwwroot\\Theme\\profile.html",
+      "PackagePath": "staticwebassets\\Theme\\profile.html"
+    },
+    {
+      "Id": "C:\\Users\\Mohsen\\source\\repos\\BugetoStars_Practical\\WebSite.EndPoints\\wwwroot\\Theme\\register.html",
+      "PackagePath": "staticwebassets\\Theme\\register.html"
+    },
+    {
+      "Id": "C:\\Users\\Mohsen\\source\\repos\\BugetoStars_Practical\\WebSite.EndPoints\\wwwroot\\Theme\\shipping-payment.html",
+      "PackagePath": "staticwebassets\\Theme\\shipping-payment.html"
+    },
+    {
+      "Id": "C:\\Users\\Mohsen\\source\\repos\\BugetoStars_Practical\\WebSite.EndPoints\\wwwroot\\Theme\\shop-left-sidebar-horizontal-card.html",
+      "PackagePath": "staticwebassets\\Theme\\shop-left-sidebar-horizontal-card.html"
+    },
+    {
+      "Id": "C:\\Users\\Mohsen\\source\\repos\\BugetoStars_Practical\\WebSite.EndPoints\\wwwroot\\Theme\\shop-left-sidebar.html",
+      "PackagePath": "staticwebassets\\Theme\\shop-left-sidebar.html"
+    },
+    {
+      "Id": "C:\\Users\\Mohsen\\source\\repos\\BugetoStars_Practical\\WebSite.EndPoints\\wwwroot\\Theme\\shop-right-sidebar-horizontal-card.html",
+      "PackagePath": "staticwebassets\\Theme\\shop-right-sidebar-horizontal-card.html"
+    },
+    {
+      "Id": "C:\\Users\\Mohsen\\source\\repos\\BugetoStars_Practical\\WebSite.EndPoints\\wwwroot\\Theme\\shop-right-sidebar.html",
+      "PackagePath": "staticwebassets\\Theme\\shop-right-sidebar.html"
+    },
+    {
+      "Id": "C:\\Users\\Mohsen\\source\\repos\\BugetoStars_Practical\\WebSite.EndPoints\\wwwroot\\Theme\\shopping-complete-buy-failed.html",
+      "PackagePath": "staticwebassets\\Theme\\shopping-complete-buy-failed.html"
+    },
+    {
+      "Id": "C:\\Users\\Mohsen\\source\\repos\\BugetoStars_Practical\\WebSite.EndPoints\\wwwroot\\Theme\\shopping-complete-buy-success.html",
+      "PackagePath": "staticwebassets\\Theme\\shopping-complete-buy-success.html"
+    },
+    {
+      "Id": "C:\\Users\\Mohsen\\source\\repos\\BugetoStars_Practical\\WebSite.EndPoints\\wwwroot\\Theme\\single-product--file.html",
+      "PackagePath": "staticwebassets\\Theme\\single-product--file.html"
+    },
+    {
+      "Id": "C:\\Users\\Mohsen\\source\\repos\\BugetoStars_Practical\\WebSite.EndPoints\\wwwroot\\Theme\\single-product.html",
+      "PackagePath": "staticwebassets\\Theme\\single-product.html"
+    },
+    {
       "Id": "C:\\Users\\Mohsen\\source\\repos\\BugetoStars_Practical\\WebSite.EndPoints\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },

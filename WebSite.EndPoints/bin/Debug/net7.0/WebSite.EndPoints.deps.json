@@ -819,7 +819,8 @@
       },
       "Domain/1.0.0": {
         "dependencies": {
-          "Microsoft.Extensions.Identity.Stores": "7.0.7"
+          "Microsoft.Extensions.Identity.Stores": "7.0.7",
+          "MongoDB.Bson": "2.23.1"
         },
         "runtime": {
           "Domain.dll": {}

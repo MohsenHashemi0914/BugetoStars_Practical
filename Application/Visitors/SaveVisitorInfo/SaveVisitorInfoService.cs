@@ -25,8 +25,10 @@ public class SaveVisitorInfoService : ISaveVisitorInfoService
         var visitor = new Visitor
         {
             IP = command.IP,
+            Time = DateTime.UtcNow,
             Method = command.Method,
             Protocol = command.Protocol,
+            VisitorId = command.VisitorId,
             CurrentLink = command.CurrentLink,
             ReferrerLink = command.ReferrerLink,
             PhysicalPath = command.PhysicalPath,
