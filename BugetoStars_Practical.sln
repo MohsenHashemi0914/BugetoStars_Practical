@@ -27,7 +27,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Infrastructure", "Infrastru
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WebSite.EndPoints", "WebSite.EndPoints\WebSite.EndPoints.csproj", "{26DEE86A-B4D2-4586-B2B4-773237750209}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Admin.EndPoints", "Admin.EndPoints\Admin.EndPoints.csproj", "{39C123F5-204D-43D2-883B-34DF70699F20}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Admin.EndPoints", "Admin.EndPoints\Admin.EndPoints.csproj", "{39C123F5-204D-43D2-883B-34DF70699F20}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

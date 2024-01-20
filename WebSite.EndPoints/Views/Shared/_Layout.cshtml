@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>@ViewData["Title"]  - فروشگاه باگتو </title>
     <!-- font-awesome -->
-     <link rel="stylesheet" href="~/Theme/assets/css/font-awesome.min.css">
+    <link rel="stylesheet" href="~/Theme/assets/css/font-awesome.min.css">
     <!-- Bootstrap 4.5.3 -->
     <link rel="stylesheet" href="~/Theme/assets/bootstrap/css/bootstrap.min.css">
     <!-- CSS Implementing Plugins -->
@@ -1319,8 +1319,6 @@
 
     </div>
 
-
-
     <!-- JS Global Compulsory -->
     <script src="~/Theme/assets/js/jquery-3.5.1.min.js"></script>
     <script src="~/Theme/assets/js/plugins/popper.min.js"></script>
@@ -1342,6 +1340,14 @@
     <script src="~/Theme/assets/js/theme.js"></script>
     <!-- Here goes your custom.js -->
     <script src="~/Theme/assets/js/custom.js"></script>
+    <script src="~/lib/microsoft/signalr/dist/browser/signalr.js"></script>
+    <script src="~/lib/microsoft/signalr/dist/browser/signalr.min.js"></script>
+    <a href="~/lib/microsoft/signalr/dist/browser/signalr.js.map">~/lib/microsoft/signalr/dist/browser/signalr.js.map</a>
+    <a href="~/lib/microsoft/signalr/dist/browser/signalr.min.js.map">~/lib/microsoft/signalr/dist/browser/signalr.min.js.map</a>
+    <script src="~/js/onlinevisitorservice.js"></script>
+
+    @RenderSection("Scripts", false){
+    }
 </body>
 
 </html>

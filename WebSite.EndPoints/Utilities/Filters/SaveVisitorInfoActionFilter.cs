@@ -34,15 +34,7 @@ public class SaveVisitorInfoActionFilter : IActionFilter
         var clientInfo = parser.Parse(userAgent);
         var referrerLink = request.Headers["Referrer"].ToString();
         var currentLink = request.Path.ToString();
-
         var visitorId = GetCookieValue("VisitorId", context.HttpContext);
-        lock (_locker)
-        {
-            if (string.IsNullOrWhiteSpace(visitorId))
-            {
-                SetCookie("VisitorId", Guid.NewGuid().ToString(), context.HttpContext);
-            }
-        }
 
         var visitor = new SaveVisitorInfoDto
         {
@@ -77,15 +69,5 @@ public class SaveVisitorInfoActionFilter : IActionFilter
     private string GetCookieValue(string key, HttpContext context)
     {
         return context.Request.Cookies[key];
-    }
-
-    private void SetCookie(string key, string value, HttpContext context)
-    {
-        context.Response.Cookies.Append(key, value, new()
-        {
-            Path = "/",
-            HttpOnly = true,
-            Expires = DateTime.UtcNow.AddDays(25)
-        });
     }
 }

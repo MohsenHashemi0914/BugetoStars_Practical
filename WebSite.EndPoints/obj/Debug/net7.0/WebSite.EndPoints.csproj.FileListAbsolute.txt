@@ -101,3 +101,4 @@ C:\Users\Mohsen\source\repos\BugetoStars_Practical\WebSite.EndPoints\bin\Debug\n
 C:\Users\Mohsen\source\repos\BugetoStars_Practical\WebSite.EndPoints\bin\Debug\net7.0\Infrastructure.dll
 C:\Users\Mohsen\source\repos\BugetoStars_Practical\WebSite.EndPoints\bin\Debug\net7.0\Infrastructure.pdb
 C:\Users\Mohsen\source\repos\BugetoStars_Practical\WebSite.EndPoints\bin\Debug\net7.0\UAParser.dll
+C:\Users\Mohsen\source\repos\BugetoStars_Practical\WebSite.EndPoints\bin\Debug\net7.0\libman.json

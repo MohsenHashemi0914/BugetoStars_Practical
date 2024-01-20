@@ -1,9 +1,12 @@
+using Application.Contexts.Mongo;
 using Application.Visitors.GetDailyReport;
+using Application.Visitors.OnlineVisitorService;
 using Domain.Users;
 using Infrastructure.IdentityConfigs;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
 using Persistence.Contexts;
+using Persistence.Contexts.Mongo;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -38,7 +41,9 @@ builder.Services.AddDbContext<DatabaseContext>(options => options.UseSqlServer(s
 
 #endregion
 
+builder.Services.AddTransient<IOnlineVisitorService, OnlineVisitorService>();
 builder.Services.AddTransient<IGetDailyReportService, GetDailyReportService>();
+builder.Services.AddTransient(typeof(IMongoDbContext<>), typeof(MongoDbContext<>));
 
 var app = builder.Build();
 

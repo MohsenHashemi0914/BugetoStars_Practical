@@ -69,6 +69,14 @@ namespace WebSite.EndPoint.Controllers
         }
 
         [HttpGet]
+        public async Task<IActionResult> CustomLogin()
+        {
+            var user = await _userManager.FindByIdAsync("48b5162f-1185-4ebb-93e0-821c15fc8f35");
+            await _signInManager.SignInAsync(user, false);
+            return RedirectToAction(nameof(Profile), "Account");
+        }
+
+        [HttpGet]
         public async Task<IActionResult> Logout()
         {
             await _signInManager.SignOutAsync();
